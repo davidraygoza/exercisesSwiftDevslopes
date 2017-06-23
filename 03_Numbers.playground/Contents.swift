@@ -1,5 +1,8 @@
 //Playground - noun: a place where people can play
-
+/*David Raygoza
+ david.raygoza.ramirez@gmail.com
+ https://www.linkedin.com/in/davidraygoza/
+ */
 import UIKit
 //Numbers
 //Type inference Int
