@@ -8,6 +8,9 @@ import UIKit
 
 class Shape{
     var area : Double
+    init(){
+        area = 0
+    }
     func calculateArea(valA: Double, valB: Double){
     
     }
